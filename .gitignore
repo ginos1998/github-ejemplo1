@@ -1,0 +1,7 @@
+# place to add files name (or type) to be ignored
+
+# ignore .js files
+*.js
+
+
+
